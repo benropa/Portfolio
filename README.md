@@ -6,6 +6,8 @@ that displays the work we complete within the bootcamp. Over the next 6 months w
 
 ## Links
 Portfolio Page: https://benropa.github.io/module2/ <br>
+
+## Other Info
 LinkedIn: https://www.linkedin.com/in/ben-ropa-92211b110/ <br>
 GitHub: https://github.com/BenRopa <br>
 
