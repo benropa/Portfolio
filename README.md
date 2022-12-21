@@ -8,7 +8,7 @@ that displays the work we complete within the bootcamp. Over the next 6 months w
 ![Screenshot 2022-12-05 at 11 02 24 PM](https://user-images.githubusercontent.com/117046452/205820458-d454378a-7273-41b1-a06b-d8d7435af955.png)
 
 ## Links
-Portfolio Page: https://benropa.github.io/module2/ <br>
+Portfolio Page: https://benropa.github.io/Portfolio/ <br>
 
 ## Other Info
 LinkedIn: https://www.linkedin.com/in/ben-ropa-92211b110/ <br>
